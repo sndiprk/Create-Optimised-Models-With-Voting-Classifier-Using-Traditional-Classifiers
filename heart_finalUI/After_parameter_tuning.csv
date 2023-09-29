@@ -1,0 +1,6 @@
+Top 3 best estimators,Accuracy
+CatBoostClassifier,82.77
+GaussianNB,81.99
+XGBClassifier,81.84
+Voting classifier(CatBoost+GaussianNB +XGB),82.24
+Voting classifier Performance,Decreases

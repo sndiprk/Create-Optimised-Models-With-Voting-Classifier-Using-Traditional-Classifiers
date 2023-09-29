@@ -1,0 +1,12 @@
+,Algorithm_Names,Best_Parameters,Accuracy
+10,CatBoostClassifier,"{'depth': 4, 'learning_rate': 0.01, 'random_state': 12}",82.77
+5,GaussianNB,{'var_smoothing': 1.2328467394420658e-05},81.99
+9,XGBClassifier,"{'max_depth': 2, 'n_estimators': 50, 'random_state': 12}",81.84
+3,ExtraTreesClassifier,"{'n_estimators': 100, 'random_state': 12}",81.05
+2,LogisticRegression,"{'C': 0.1, 'penalty': 'l2', 'random_state': 12, 'solver': 'lbfgs'}",80.91
+4,RandomForestClassifier,"{'n_estimators': 100, 'random_state': 12}",80.6
+8,GradientBoostingClassifier,"{'learning_rate': 0.8, 'n_estimators': 50, 'random_state': 12}",79.98
+7,AdaBoostClassifier,"{'n_estimators': 10, 'random_state': 12}",79.66
+0,SVC,"{'C': 1000, 'gamma': 0.0001, 'random_state': 12}",79.35
+1,DecisionTreeClassifier,"{'max_depth': 4, 'max_features': None, 'random_state': 12}",78.88
+6,KNeighborsClassifier,{'n_neighbors': 11},72.35

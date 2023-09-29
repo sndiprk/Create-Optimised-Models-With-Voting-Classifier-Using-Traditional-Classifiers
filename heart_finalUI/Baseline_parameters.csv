@@ -1,0 +1,6 @@
+Top 3 best estimators,Accuracy
+LogisticRegression,0.804347826
+RandomForest ,0.804347826
+AdaBoostClassifier ,0.793478261
+Voting classifier(LogReg+RandomForest +AdaBoost),0.815217391
+Voting classifier Performance,Increases

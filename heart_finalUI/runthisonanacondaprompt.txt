@@ -1,0 +1,6 @@
+python -m streamlit run heart-app_v3.py
+E:\heart\streamlit_heart
+
+https://medium.com/geekculture/create-a-machine-learning-web-app-with-streamlit-f28c75f9f40f
+
+https://github.com/Sk1613/prediction_w_streamlit
